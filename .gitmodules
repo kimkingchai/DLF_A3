@@ -1,0 +1,3 @@
+[submodule "external/qlib"]
+	path = external/qlib
+	url = https://github.com/microsoft/qlib.git
